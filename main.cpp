@@ -9,5 +9,7 @@ int main() {
     cin >> base;
     cin >> altura;
 
+    cout << (base * altura)/2 << endl;
+
     return 0;
 }
